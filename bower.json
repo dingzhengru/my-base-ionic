@@ -1,0 +1,15 @@
+{
+	"name": "BaseIonic",
+	"version": "1.0.0",
+	"private": "true",
+	"devDependencies": {
+		"ionic": "driftyco/ionic-bower#1.2.4"
+	},
+	"dependencies": {
+		"ngCordova": "latest",
+		"jquery": "~2.2.0",
+		"angular-cookie": "latest",
+		"firebase": "latest",
+		"angularfire": "latest"
+	}
+}
